@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e87fa39c-41f4-4cca-aa82-31eeeef13859</dc:identifier>
+        <dc:title>Endymion</dc:title>
+        <dc:creator opf:file-as="Simmons, Dan" opf:role="aut">Dan Simmons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-02-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;The multiple-award-winning science fiction master returns to the universe that is his greatest triumph--the world of Hyperion and The Fall ofHyperion --with a novel even more magnificent than its predecessors.Dan Simmons's Hyperion was an immediate sensation on its first publication in 1989. This staggering multifaceted tale of the far future heralded the conquest of the science fiction field by a man who had already won the World Fantasy Award for his first novel (Song of Kali) and had also published one of the most well-received horror novels in the field, Carrion Comfort. Hyperion went on to win the Hugo Award as Best Novel, and it and its companion volume, The Fall of Hyperion, took their rightful places in the science fiction pantheon of new classics.Now, six years later, Simmons returns to this richly imagined world of technological achievement, excitement, wonder and fear. Endymion is a story about love and memory, triumph and terror--an instant candidate for the field's highest honors.&lt;/p&gt;</dc:description>
+        <dc:publisher>Bantam Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553572940</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-16T15:15:34+00:00"/>
+        <meta name="calibre:title_sort" content="Endymion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Endymion - Dan Simmons.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea01567e-0675-4077-8ded-1a2c6d2f9892</dc:identifier>
+        <dc:title>Use of Weapons</dc:title>
+        <dc:creator opf:file-as="Banks, Iain M." opf:role="aut">Iain M. Banks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-13T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The man known as Cheradenine Zakalwe was one of Special Circumstances' foremost agents, changing the destiny of planets to suit the Culture through intrigue, dirty tricks and military action.
+
+The woman known as Diziet Sma had plucked him from obscurity and pushed him towards his present eminence, but despite all their dealings she did not know him as well as she thought.
+
+The drone known as Skaffen-Amtiskaw knew both of these people.  It had once saved the woman's life by massacring her attackers in a particularly bloody manner.  It believed the man to be a lost cause.  But not even its machine could see the horrors in his past.  
+
+Ferociously intelligent, both witty and horrific, USE OF WEAPONS is a masterpiece of science fiction.</dc:description>
+        <dc:publisher>Culture</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316030571</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction - Science Fiction</dc:subject>
+        <dc:subject>Space Opera</dc:subject>
+        <dc:subject>Science Fiction - Adventure</dc:subject>
+        <dc:subject>Science Fiction And Fantasy</dc:subject>
+        <dc:subject>Science Fiction - Space Opera</dc:subject>
+        <dc:subject>Space warfare</dc:subject>
+        <meta name="calibre:series" content="The Culture"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-02-16T14:57:14+00:00"/>
+        <meta name="calibre:title_sort" content="Use of Weapons"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Use of Weapons - Iain M. Banks.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6c3f06c-e9f8-4dff-a34d-c53b6aa6e8da</dc:identifier>
+        <dc:title>Foundation and Empire</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1951-12-31T18:00:00+00:00</dc:date>
+        <dc:description>The Foundation novels of Isaac Asimov are one of the great masterworks of science fiction. Unsurpassed for their unique blend of nonstop action, daring ideas, and extensive world-building, they chronicle the struggle of a courageous group of men and women to preserve humanity’s light against an inexorable tide of darkness and violence. Led by its founding father, the great psychohistorian Hari Seldon, and taking advantage of its superior science and technology, the Foundation has survived the greed and barbarism of its neighboring warrior-planets. Yet now it must face the Empire—still the mightiest force in the Galaxy even in its death throes. When an ambitious general determined to restore the Empire’s glory turns the vast Imperial fleet toward the Foundation, the only hope for the small planet of scholars and scientists lies in the prophecies of Hari Seldon. But not even Hari Seldon could have predicted the birth of the extraordinary creature called The Mule—a mutant intelligence with a power greater than a dozen battle fleets… a power that can turn the strongest-willed human into an obedient slave.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">31386</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isaac Asimov&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Foundation Universe: Foundation Series"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-07-25T04:06:11.308665+00:00"/>
+        <meta name="calibre:title_sort" content="Foundation and Empire"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Foundation and Empire - Isaac Asimov.jpg"/>
+    </guide>
+</package>

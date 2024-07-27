@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d68c780-5e55-44aa-b371-9076fce608db</dc:identifier>
+        <dc:title>Hyperion</dc:title>
+        <dc:creator opf:file-as="Simmons, Dan" opf:role="aut">Dan Simmons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-04T22:00:00+00:00</dc:date>
+        <dc:publisher>Orion</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>original</dc:subject>
+        <meta name="calibre:series" content="Hyperion Cantos"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-02-16T15:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Hyperion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Hyperion - Dan Simmons.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bfc6165-d751-443c-97a4-9f934ec6b13d</dc:identifier>
+        <dc:title>Consider Phlebas</dc:title>
+        <dc:creator opf:file-as="Banks, Iain M." opf:role="aut">Iain M. Banks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-13T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+"Dazzlingly original." -- Daily Mail"Gripping, touching and funny." -- TLSThe war raged across the galaxy. Billions had died, billions more were doomed. Moons, planets, the very stars themselves, faced destruction, cold-blooded, brutal, and worse, random. The Idirans fought for their Faith; the Culture for its moral right to exist. Principles were at stake. There could be no surrender. Within the cosmic conflict, an individual crusade. Deep within a fabled labyrinth on a barren world, a Planet of the Dead proscribed to mortals, lay a fugitive Mind. Both the Culture and the Idirans sought it. It was the fate of Horza, the Changer, and his motley crew of unpredictable mercenaries, human and machine, actually to find it, and with it their own destruction.</dc:description>
+        <dc:publisher>Culture</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316005388</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction - Science Fiction</dc:subject>
+        <dc:subject>Space Opera</dc:subject>
+        <dc:subject>Science Fiction - Adventure</dc:subject>
+        <dc:subject>Science Fiction And Fantasy</dc:subject>
+        <dc:subject>Science Fiction - Space Opera</dc:subject>
+        <dc:subject>Imaginary wars and battles</dc:subject>
+        <dc:subject>English Science Fiction And Fantasy</dc:subject>
+        <meta name="calibre:series" content="The Culture"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="7"/>
+        <meta name="calibre:timestamp" content="2024-02-16T14:57:14+00:00"/>
+        <meta name="calibre:title_sort" content="Consider Phlebas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Consider Phlebas - Iain M. Banks.jpg"/>
+    </guide>
+</package>

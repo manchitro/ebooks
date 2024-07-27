@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a13b5b2-101f-4158-ae3d-2385a8c49380</dc:identifier>
+        <dc:title>Fire &amp; Blood</dc:title>
+        <dc:creator opf:file-as="Martin, George R R" opf:role="aut">George R R Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-19T17:00:00+00:00</dc:date>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781524796280</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07C6TBTV3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:series" content="A Song of Ice and Fire"/>
+        <meta name="calibre:series_index" content="0.5"/>
+        <meta name="calibre:timestamp" content="2024-02-16T14:59:59+00:00"/>
+        <meta name="calibre:title_sort" content="Fire &amp; Blood"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Fire &amp; Blood - George R R Martin.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52f7c737-824c-4abd-90ed-13b0acf98c60</dc:identifier>
+        <dc:title>Theory of Nothing</dc:title>
+        <dc:creator opf:file-as="Russell Standish" opf:role="aut">Russell Standish</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-15T17:20:56+00:00</dc:date>
+        <dc:description>&lt;p&gt;We all -physicists, philosophers and ordinary people alike - presume to know what time is. For some of us, time is granted a dual role as both a duration and a dimension. It is also deemed to have a direction, and yet, if you believe Einstein's conception that the past, present and future are illusions, it is merely a delusion. But what is this elusive notion of time and why has it defied definition over the ages? In The Meaning of Time - A Theory of Nothing author Gene T. Yerger proposes a theory that provides an answer to that precise question. So why is this a problem? Since Albert Einstein revolutionized our understanding of gravity and Niels Bohr led the development of quantum theory, these two theoretical pillars of modern science have maintained a peaceful coexistence. So far, however, physicists have been unable to combine the two theories into a consistent and testable theory of quantum gravity. And what is the solution? In his book, author Gene T. Yerger posits that the reason for this failure is the inability of the physics community to resolve the problem of time. In his theory, Yerger proposes that our motion through time and gravity are intimately related and this relationship serves as the basis for a quantum theory of gravity. Moreover, he proposes that this motion through time is not only the source of the gravitational force but is responsible for the actualization of reality itself. The book explores a wide range of questions: Is there one standard of time everywhere and for everyone? Is our intuitive understanding of the past, present and future an illusion? Are time, our consciousness of reality, and the universe interconnected? Answers to these and other questions will shed new light on the meaning of time and will demonstrate that, in the final analysis, the theory of nothing might just well be - a theory of everything.&lt;/p&gt;</dc:description>
+        <dc:publisher>High Performance Coders</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">h342PAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780981789606</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-16T14:59:59+00:00"/>
+        <meta name="calibre:title_sort" content="Theory of Nothing"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Theory of Nothing - Russell Standish.jpg"/>
+    </guide>
+</package>

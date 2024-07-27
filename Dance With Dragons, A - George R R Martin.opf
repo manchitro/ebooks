@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15af4b8b-443a-43eb-a687-d2abbc64905c</dc:identifier>
+        <dc:title>A Dance With Dragons</dc:title>
+        <dc:creator opf:file-as="Martin, George R R" opf:role="aut">George R R Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;PRAISE FOR GEORGE R. R. MARTIN’S&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;A SONG OF ICE AND FIRE&lt;/strong&gt;  &lt;/p&gt;&lt;p&gt;“What’s A Song of Ice and Fire? It’s the only fantasy series I’d put on a level with J.R.R. Tolkien’s &lt;em&gt;The Lord of the Rings&lt;/em&gt;. . . . It’s a fantasy series for hip, smart people, even those who don’t read fantasy.”—_Chicago Tribune_&lt;br&gt;&lt;strong&gt;&lt;em&gt;  &lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;A Game of Thrones&lt;/strong&gt;  &lt;/p&gt;&lt;p&gt;“Reminiscent of T. H. White’s &lt;em&gt;The Once and Future King,&lt;/em&gt; this novel is an absorbing combination of the mythic, the sweepingly historical, and the intensely personal.”_—Chicago Sun-Times_  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;A Clash of Kings&lt;/strong&gt;  &lt;/p&gt;&lt;p&gt;“Martin amply fulfills the first volume’s promise and continues what seems destined to be one of the best fantasy series ever written.”—_The Denver Post_  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;A Storm of Swords&lt;/strong&gt;  &lt;/p&gt;&lt;p&gt;“Riveting . . . a series whose brilliance continues to dazzle.”—_Patriot News_  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;A Feast for Crows&lt;/strong&gt;  &lt;/p&gt;&lt;p&gt;“Of those who work in the grand epic-fantasy tradition, Martin is by far the best. In fact . . . this is as good a time as any to proclaim him the American Tolkien.”—_Time _&lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Dubbed “the American Tolkien” by &lt;em&gt;Time &lt;/em&gt;magazine, George R. R. Martin has earned international acclaim for his monumental cycle of epic fantasy. Now the #1 &lt;em&gt;New York Times&lt;/em&gt; bestselling author delivers the fifth book in his spellbinding landmark series--as both familiar faces and surprising new forces vie for a foothold in a fragmented empire. &lt;br&gt;&lt;em&gt;&lt;/em&gt;&lt;br&gt;&lt;em&gt;&lt;/em&gt;In the aftermath of a colossal battle, the future of the Seven Kingdoms hangs in the balance once again--beset by newly emerging threats from every direction. In the east, Daenerys Targaryen, the last scion of House Targaryen, rules with her three dragons as queen of a city built on dust and death. But Daenerys has three times three thousand enemies, and many have set out to find her. Yet, as they gather, one young man embarks upon his own quest for the queen, with an entirely different goal in mind.  &lt;/p&gt;&lt;p&gt;To the north lies the mammoth Wall of ice and stone--a structure only as strong as those guarding it. There, Jon Snow, 998th Lord Commander of the Night’s Watch, will face his greatest challenge yet. For he has powerful foes not only within the Watch but also beyond, in the land of the creatures of ice.  &lt;/p&gt;&lt;p&gt;And from all corners, bitter conflicts soon reignite, intimate betrayals are perpetrated, and a grand cast of outlaws and priests, soldiers and skinchangers, nobles and slaves, will face seemingly insurmountable obstacles. Some will fail, others will grow in the strength of darkness. But in a time of rising restlessness, the tides of destiny and politics will lead inevitably to the greatest dance of all. . . . &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bantam</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553801477</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Seven Kingdoms (Imaginary Place)</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Epic</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-16T14:59:59+00:00"/>
+        <meta name="calibre:title_sort" content="Dance With Dragons, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Dance With Dragons, A - George R R Martin.jpg"/>
+    </guide>
+</package>

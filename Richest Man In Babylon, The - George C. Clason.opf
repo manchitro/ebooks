@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1c94f9a-2059-43ee-9211-3c82b76c8725</dc:identifier>
+        <dc:title>The Richest Man In Babylon</dc:title>
+        <dc:creator opf:file-as="Clason, George C." opf:role="aut">George C. Clason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-15T18:00:00+00:00</dc:date>
+        <dc:description>The Richest Man In Babylon George C. Clason. This book is full of parables of ancient Babylon and is a classic of personal finance. It is quite affordable and quite good inspiration and tips about our relationship with money. To convey ideas, the author George Clason takes us to ancient Babylon, where they lived the richest men of ancient times. They understood the value of money, with excellent economy and investment practices. The first idea that strikes you is how Babylon was a region that had no natural resources. All the riches of the city were created by man. Their wealth came from the ability of its people to articulate, promote value in their pro-activity. George Samuel Clason was born in Louisiana, Missouri, on November 7, 1874. In 1926, he issued the first of a famous series of pamphlets on thrift and financial success, using parables set in ancient Babylon to make each of his points. These "Babylonian parables" have become a modern inspirational classic.</dc:description>
+        <dc:publisher>George C. Clason</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781304503077</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-16T15:08:31+00:00"/>
+        <meta name="calibre:title_sort" content="Richest Man In Babylon, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Richest Man In Babylon, The - George C. Clason.jpg"/>
+    </guide>
+</package>

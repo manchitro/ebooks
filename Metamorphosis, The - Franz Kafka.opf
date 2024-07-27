@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4720f006-3f2e-4152-8f39-5aca2426dfa5</dc:identifier>
+        <dc:title>The Metamorphosis</dc:title>
+        <dc:creator opf:file-as="Kafka, Franz" opf:role="aut">Franz Kafka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-17T18:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;"This fine version, with David Cronenberg's inspired introduction and the new translator's beguiling afterword, is, I suspect, the most disturbing though the most comforting of all so far; others will follow, but don't hesitate: this is the transforming text for you."&amp;#8212;Richard HowardFranz Kafka's 1915 novella of unexplained horror and nightmarish transformation became a worldwide classic and remains a century later one of the most widely read works of fiction in the world. It is the story of traveling salesman Gregor Samsa, who wakes one morning to find himself transformed into a monstrous insect. This hugely influential work inspired George Orwell, Albert Camus, Jorge Louis Borges, and Ray Bradbury, while continuing to unsettle millions of readers.&lt;br/&gt;&lt;br/&gt;In her new translation of Kafka's masterpiece, Susan Bernofsky strives to capture both the humor and the humanity in this macabre tale, underscoring the ways in which Gregor Samsa's grotesque metamorphosis is just the...</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780393347654</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-16T14:59:59+00:00"/>
+        <meta name="calibre:title_sort" content="Metamorphosis, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Metamorphosis, The - Franz Kafka.jpg"/>
+    </guide>
+</package>

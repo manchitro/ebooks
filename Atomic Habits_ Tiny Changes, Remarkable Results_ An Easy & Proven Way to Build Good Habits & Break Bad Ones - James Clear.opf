@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3039f91a-3394-41d3-87bb-46985456e9ae</dc:identifier>
+        <dc:title>Atomic Habits: Tiny Changes, Remarkable Results: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones</dc:title>
+        <dc:creator opf:file-as="Clear, James" opf:role="aut">James Clear</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-16T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;&lt;b&gt;&lt;i&gt;Tiny Changes, Remarkable Results&lt;/i&gt;&lt;/b&gt;&lt;/b&gt;&lt;br&gt;No matter your goals, &lt;i&gt;Atomic Habits&lt;/i&gt; offers a proven framework for improving&amp;#8212;every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.&lt;br&gt;If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you'll get a proven system that can take you to new heights.&lt;br&gt;Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-16T14:59:59+00:00"/>
+        <meta name="calibre:title_sort" content="Atomic Habits: Tiny Changes, Remarkable Results: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Atomic Habits_ Tiny Changes, Remarkable Results_ An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones - James Clear.jpg"/>
+    </guide>
+</package>

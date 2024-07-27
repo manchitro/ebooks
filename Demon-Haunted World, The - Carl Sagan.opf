@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20bc0410-dd81-4272-b9fb-f40a1f9fcba3</dc:identifier>
+        <dc:title>The Demon-Haunted World</dc:title>
+        <dc:creator opf:file-as="Sagan, Carl" opf:role="aut">Carl Sagan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-21T18:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;"A glorious book . . . A spirited defense of science . . . From the first page to the last, this book is a manifesto for clear thought."&lt;br&gt;&lt;br&gt; &lt;li&gt;Los Angeles Times&lt;br&gt;&lt;br&gt;"POWERFUL . . . A stirring defense of informed rationality. . . Rich in surprising information and beautiful writing."&lt;br&gt;&lt;br&gt; &lt;li&gt;The Washington Post Book World&lt;br&gt;&lt;br&gt;How can we make intelligent decisions about our increasingly technology-driven lives if we don't understand the difference between the myths of pseudoscience and the testable hypotheses of science? Pulitzer Prize-winning author and distinguished astronomer Carl Sagan argues that scientific thinking is critical not only to the pursuit of truth but to the very well-being of our democratic institutions.&lt;br&gt;&lt;br&gt;Casting a wide net through history and culture, Sagan examines and authoritatively debunks such celebrated fallacies of the past as witchcraft, faith healing, demons, and UFOs. And yet, disturbingly, in today's so-called information age,...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-307-80104-3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-16T14:59:59+00:00"/>
+        <meta name="calibre:title_sort" content="Demon-Haunted World, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Demon-Haunted World, The - Carl Sagan.jpg"/>
+    </guide>
+</package>

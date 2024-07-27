@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b901e7ff-e7bb-4695-a617-6d70957b2ec9</dc:identifier>
+        <dc:title>The Light Of Other Days</dc:title>
+        <dc:creator opf:file-as="Clarke, Arthur C" opf:role="aut">Arthur C Clarke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-04T18:30:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+"The Light of Other Days tells the tale of what happens when a brilliant, driven industrialist harnesses quantum physics to enable people everywhere to see one another at all times: around every corner, through every wall, into everyone's most private, hidden, and even intimate moments. This new technology amounts to the sudden and complete abolition of human privacy - forever." "Then, as men and women scramble to absorb this shock, the same technology proves able to look backwards in time as well. Nothing can prepare us for what follows - the wholesale discovery of the truth about thousands of years of human history. Governments topple, religions fall, the entire edifice of human society is shaken to its roots. It is a fundamental change in the terms of the human condition ... cause for despair, provocation for chaos, and - just maybe - opportunity for transcendence."--BOOK JACKET.</dc:description>
+        <dc:publisher>London : Voyager, c2000.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780002247047</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-16T15:00:13+00:00"/>
+        <meta name="calibre:title_sort" content="Light Of Other Days, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Light Of Other Days, The - Arthur C Clarke.jpg"/>
+    </guide>
+</package>

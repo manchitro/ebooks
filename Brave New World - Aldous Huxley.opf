@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">347f1f2f-d6d1-4a93-a3a5-133a51754475</dc:identifier>
+        <dc:title>Brave New World</dc:title>
+        <dc:creator opf:file-as="Huxley, Aldous" opf:role="aut">Aldous Huxley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-14T10:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;Aldous Huxley's tour de force, Brave New World is a darkly satiric vision of a "utopian" future—where humans are genetically bred and pharmaceutically anesthetized to passively serve a ruling order. A powerful work of speculative fiction that has enthralled and terrified readers for generations, it remains remarkably relevant to this day as both a warning to be heeded as we head into tomorrow and as thought-provoking, satisfying entertainment.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060850524</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>classics</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-16T15:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Brave New World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Brave New World - Aldous Huxley.jpg"/>
+    </guide>
+</package>

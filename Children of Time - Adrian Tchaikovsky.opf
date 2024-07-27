@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">770fd4fd-1984-486b-84ec-5624e48a5dfe</dc:identifier>
+        <dc:title>Children of Time</dc:title>
+        <dc:creator opf:file-as="Tchaikovsky, Adrian" opf:role="aut">Adrian Tchaikovsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-03T16:00:00+00:00</dc:date>
+        <dc:publisher>Pan Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00SN93AHU</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781447273318</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-16T14:59:59+00:00"/>
+        <meta name="calibre:title_sort" content="Children of Time"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Children of Time - Adrian Tchaikovsky.jpg"/>
+    </guide>
+</package>

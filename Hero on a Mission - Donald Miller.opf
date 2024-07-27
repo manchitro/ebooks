@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51000742-5f0f-4f8c-8d91-3b010c6f21f9</dc:identifier>
+        <dc:title>Hero on a Mission</dc:title>
+        <dc:creator opf:file-as="Miller, Donald" opf:role="aut">Donald Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-05T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;New York Times &lt;/strong&gt;&lt;strong&gt;bestselling author Donald Miller shares the plan that led him to turn his life around.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There are four characters in every story: The victim, the villain, the hero, and the guide. These four characters live inside us. If we play the victim, we're doomed to fail. If we play the villain, we will not create genuine bonds. But if we play the hero or guide, our lives will flourish. The hard part is being self-aware enough to know which character we are playing.&lt;/p&gt;&lt;p&gt;In this book, Donald will use his own experiences to help you recognize if the character you are currently surfacing is helping you experience a life of meaning. He breaks down the transformational, yet practical, plan that took him from slowly giving up to rapidly gaining a new perspective of his own life's beauty and meaning, igniting his motivation, passion, and productivity, so you can do the same.&lt;/p&gt;&lt;p&gt;The lessons in this book will teach you how to:&lt;/p&gt;&lt;li&gt;Help...</dc:description>
+        <dc:publisher>Harpercollins Leadership</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-16T14:59:59+00:00"/>
+        <meta name="calibre:title_sort" content="Hero on a Mission"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Hero on a Mission - Donald Miller.jpg"/>
+    </guide>
+</package>

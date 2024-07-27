@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a11f17c0-c574-4abf-bf80-a606318cffa4</dc:identifier>
+        <dc:title>The Stranger</dc:title>
+        <dc:creator opf:file-as="Camus, Albert" opf:role="aut">Albert Camus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-07-24T04:00:00+00:00</dc:date>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>Book Notes</dc:subject>
+        <dc:subject>Albert - Examinations - Study guides</dc:subject>
+        <dc:subject>Test Prep</dc:subject>
+        <dc:subject>Monarch</dc:subject>
+        <dc:subject>Literary studies: fiction</dc:subject>
+        <dc:subject>European</dc:subject>
+        <dc:subject>Novels</dc:subject>
+        <dc:subject>Camus</dc:subject>
+        <dc:subject>Albert</dc:subject>
+        <dc:subject>French</dc:subject>
+        <dc:subject>Cliff's</dc:subject>
+        <dc:subject>Literary studies: from c 1900 -</dc:subject>
+        <dc:subject>novelists &amp; prose writers</dc:subject>
+        <dc:subject>Literary Studies: Textbooks &amp; Study Guides</dc:subject>
+        <dc:subject>Barron's Book Notes</dc:subject>
+        <dc:subject>Study guides</dc:subject>
+        <dc:subject>American English</dc:subject>
+        <dc:subject>Etranger</dc:subject>
+        <dc:subject>Study Aids</dc:subject>
+        <dc:subject>European - French</dc:subject>
+        <dc:subject>other prose &amp; writers: from c 1900 -</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-16T15:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Stranger, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Stranger, The - Albert Camus.jpg"/>
+    </guide>
+</package>

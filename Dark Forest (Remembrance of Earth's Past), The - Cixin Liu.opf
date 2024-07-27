@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">065478be-5d03-460b-84af-e0d6775d8827</dc:identifier>
+        <dc:title>The Dark Forest (Remembrance of Earth's Past)</dc:title>
+        <dc:creator opf:file-as="Liu, Cixin" opf:role="aut">Cixin Liu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-15T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;This near-future trilogy is the first chance for English-speaking readers to experience this multiple-award-winning phenomenon from Cixin Liu, China's most beloved science fiction author. &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;The Dark Forest&lt;/em&gt;, Earth is reeling from the revelation of a coming alien invasion-in just four centuries' time. The aliens' human collaborators may have been defeated, but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are totally exposed to the enemy. Only the human mind remains a secret. This is the motivation for the Wallfacer Project, a daring plan that grants four men enormous resources to design secret strategies, hidden through deceit and misdirection from Earth and Trisolaris alike. Three of the Wallfacers are influential statesmen and scientists, but the fourth is a total unknown. Luo Ji, an unambitious Chinese astronomer and sociologist, is baffled by his new status. All he knows is that he's the one Wallfacer that Trisolaris wants dead.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Remembrance of Earth's Past Trilogy&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;The Three-Body Problem&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;The Dark Forest&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Death's End&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Other Books&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Ball Lightning&lt;/em&gt; (forthcoming)&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tor Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765386694</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0765386690</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2024-02-16T15:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Dark Forest (Remembrance of Earth's Past), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Dark Forest (Remembrance of Earth's Past), The - Cixin Liu.jpg"/>
+    </guide>
+</package>

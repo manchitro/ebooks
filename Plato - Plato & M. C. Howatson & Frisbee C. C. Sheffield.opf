@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c9b5d0e-1cb6-4046-8fe1-dad7c416738d</dc:identifier>
+        <dc:title>Plato</dc:title>
+        <dc:creator opf:file-as="Howatson Sheffield and Howatson" opf:role="aut">Plato</dc:creator>
+        <dc:creator opf:file-as="Howatson Sheffield and Howatson" opf:role="aut">M. C. Howatson</dc:creator>
+        <dc:creator opf:file-as="Howatson Sheffield and Howatson" opf:role="aut">Frisbee C. C. Sheffield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-23T18:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Plato's Symposium, written in the early part of the 4th century BC, is set at a drinking party (symposium) attended by some of the leading intellectuals of the day, including Aristophanes, the comic dramatist, Socrates, Plato's mentor, and Alcibiades, the brilliant but (eventually) treacherous politician. Each guest gives a speech in praise of the benefits of desire and its role in the good and happy human life. At the core of the work stands Socrates' praise of philosophical desire, and an argument for the superiority of the philosophical life as the best route to happiness. This edition provides an accessible and engaging new translation by M. C. Howatson, and a substantial introduction, by Frisbee Sheffield, which guides the reader through the various parts of the dialogue and reflects on its central arguments. A chronology and detailed notes on the participants help to set this enduring work in context.</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780521864404</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-16T14:59:58+00:00"/>
+        <meta name="calibre:title_sort" content="Plato"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Plato - Plato &amp; M. C. Howatson &amp; Frisbee C. C. Sheffield.jpg"/>
+    </guide>
+</package>

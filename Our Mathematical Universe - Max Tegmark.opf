@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4ec7b0c-dfd0-4150-82ec-b88c06e91dc4</dc:identifier>
+        <dc:title>Our Mathematical Universe</dc:title>
+        <dc:creator opf:file-as="Tegmark, Max" opf:role="aut">Max Tegmark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-06T18:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Max Tegmark leads us on an astonishing journey through past, present and future, and through the physics, astronomy and mathematics that are the foundation of his work, most particularly his hypothesis that our physical reality is a mathematical structure and his theory of the ultimate multiverse. In a dazzling combination of both popular and groundbreaking science, he not only helps us grasp his often mind-boggling theories, but he also shares with us some of the often surprising triumphs and disappointments that have shaped his life as a scientist. Fascinating from first to last--this is a book that has already prompted the attention and admiration of some of the most prominent scientists and mathematicians.&lt;br&gt;&lt;br&gt;&lt;i&gt;From the Hardcover edition.&lt;/i&gt;</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-385-35049-5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-02-16T14:59:59+00:00"/>
+        <meta name="calibre:title_sort" content="Our Mathematical Universe"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Our Mathematical Universe - Max Tegmark.jpg"/>
+    </guide>
+</package>

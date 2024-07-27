@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">967efe83-38c6-46fb-a7f2-eba4abc54a69</dc:identifier>
+        <dc:title>The Player of Games</dc:title>
+        <dc:creator opf:file-as="Banks, Iain M." opf:role="aut">Iain M. Banks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-13T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: In The Player of Games, Iain M. Banks presents a distant future that could almost be called the end of history. Humanity has filled the galaxy, and thanks to ultra-high technology everyone has everything they want, no one gets sick, and no one dies. It's a playground society of sports, stellar cruises, parties, and festivals. Jernau Gurgeh, a famed master game player, is looking for something more and finds it when he's invited to a game tournament at a small alien empire. Abruptly Banks veers into different territory. The Empire of Azad is exotic, sensual, and vibrant. It has space battle cruisers, a glowing court--all the stuff of good old science fiction--which appears old-fashioned in contrast to Gurgeh's home. At first it's a relief, but further exploration reveals the empire to be depraved and terrifically unjust. Its defects are gross exaggerations of our own, yet they indict us all the same. Clearly Banks is interested in the idea of a future where everyone can be mature and happy. Yet it's interesting to note that in order to give us this compelling adventure story, he has to return to a more traditional setting. Thoughtful science fiction readers will appreciate the cultural comparisons, and fans of big ideas and action will also be rewarded. --Brooks Peck</dc:description>
+        <dc:publisher>Culture</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316005401</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction - Adventure</dc:subject>
+        <dc:subject>Science Fiction - Space Opera</dc:subject>
+        <dc:subject>Fiction - Science Fiction</dc:subject>
+        <dc:subject>Computer games</dc:subject>
+        <dc:subject>Space Opera</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>English Science Fiction And Fantasy</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Science Fiction And Fantasy</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-16T14:57:14+00:00"/>
+        <meta name="calibre:title_sort" content="Player of Games, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Player of Games, The - Iain M. Banks.jpg"/>
+    </guide>
+</package>

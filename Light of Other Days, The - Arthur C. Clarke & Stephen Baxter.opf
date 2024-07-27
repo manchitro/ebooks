@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">280085b9-ae5d-4bee-9a4d-6dfb3a7b5d10</dc:identifier>
+        <dc:title>The Light of Other Days</dc:title>
+        <dc:creator opf:file-as="Clarke, Arthur C. &amp; Baxter, Stephen" opf:role="aut">Arthur C. Clarke</dc:creator>
+        <dc:creator opf:file-as="Clarke, Arthur C. &amp; Baxter, Stephen" opf:role="aut">Stephen Baxter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.5.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-07T22:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;The crowning achievement of any professional writer is to get paid twice for the same material: write a piece for one publisher and then tweak it just enough that you can turn around and sell it to someone else. While it's specious to accuse Stephen Baxter and Arthur C. Clarke of this, fans of both authors will definitely notice some striking similarities between &lt;em&gt;Light of Other Days&lt;/em&gt; and other recent works by the two, specifically Baxter's &lt;strong&gt; and Clarke's &lt;/strong&gt;. &lt;/p&gt;&lt;p&gt;&lt;em&gt;The Light of Other Days&lt;/em&gt; follows a soulless tech billionaire (sort of an older, more crotchety Bill Gates), a soulful muckraking journalist, and the billionaire's two (separated since birth) sons. It's 2035, and all four hold ringside seats at the birth of a new paradigm-destroying technology, a system of "WormCams," harnessing the power of wormholes to see absolutely anyone or anything, anywhere, at any distance (even light years away). As if that weren't enough, the sons eventually figure out how to exploit a time-dilation effect, allowing them to use the holes to peer back in time.&lt;/p&gt;&lt;p&gt;For Baxter's part, the &lt;em&gt;Light of Other Days&lt;/em&gt; develops another aspect of &lt;em&gt;Manifold&lt;/em&gt;'s notion that humanity might have to master the flow of time itself to avert a comparatively mundane disaster (yet another yawn-inducing big rock threatening to hit the earth); Clarke, just as he did with &lt;em&gt;Trigger&lt;/em&gt;'s anti-gun ray, speculates on how a revolutionary technology can change the world forever. &lt;em&gt;--Paul Hughes&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;HTwo titans of hard SF--multiple award-winning British authors Clarke (Rendezvous with Rama, etc.) and Baxter (The Time Ships, etc.)--team up for a story of grand scientific and philosophical scope. Ruthless Hiram Patterson, the self-styled "Bill Gates of the twenty-first century," brings about a communication revolution by using quantum wormholes to link distant points around Earth. Not content with his monopoly on the telecommunications industry, Patterson convinces his estranged son, David, a brilliant young physicist, to work for him. While humanity absorbs the depressing news that an enormous asteroid will hit Earth in 500 years, David develops the WormCam, which allows remote viewers to spy on anyone, anytime. The government steps in to direct WormCam use--but before long, privacy becomes a distant memory. Then David and his half-brother, Bobby, discover a way to use the WormCam to view the past, and the search for truth leads to disillusionment as well as knowledge. Only by growing beyond the mores of the present can humanity hope to survive and to deal with the threats of the future, including that asteroid. The exciting extrapolation flows with only a few missteps, and the large-scale implications addressed are impressive indeed. For both authors the novel's conclusion takes place in familiar thematic territory, offering a final, hopeful transcendence for humanity. With Clarke's and Baxter's names behind its potent story, this one could sell big--and to the movies as well as to the reading public. $250,000 ad/promo. (Feb.) &lt;br /&gt;Copyright 2000 Reed Business Information, Inc. &lt;/p&gt;</dc:description>
+        <dc:publisher>Tor Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765322876</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2024-02-16T14:59:58+00:00"/>
+        <meta name="calibre:title_sort" content="Light of Other Days, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Light of Other Days, The - Arthur C. Clarke &amp; Stephen Baxter.jpg"/>
+    </guide>
+</package>
